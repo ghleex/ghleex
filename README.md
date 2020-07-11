@@ -6,7 +6,7 @@
 
 ### Data Scientist Wannabe
 - Interested in data science and web programming(Django, JavaScript)
-- Want be a super expert in these fields
+- Want to be a super expert in these fields
 
 ### Interests
 - Data science
