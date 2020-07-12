@@ -1,8 +1,9 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghleex%2F)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghleex%2F&title=HITS)
 
 </div>
+
 
 ### Data Scientist Wannabe
 - Interested in data science and web programming(Django, JavaScript)
@@ -12,10 +13,12 @@
 - Data science
 - Web programming
 
+
 <div align=center>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/gil-hyeon-lee-1a7372ab/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghleex@gmail.com)](mailto:ghleex@gmail.com)
+
 </div>
 
 
