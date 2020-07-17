@@ -11,7 +11,12 @@
 
 ### Interests
 - Data science
-- Web programming
+- Web programming(Django, JavaScript)
+
+------
+- A member of "Samsung Software Academy For Youth (SSAFY)" 
+- Served as an officer in the ROK Air Force :airplane: 
+- Majored in Linguistics (Master of Arts) :books: 
 
 
 <div align=center>
