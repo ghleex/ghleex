@@ -11,7 +11,7 @@
 
 ### Interests
 - Data science
-- Web programming(Django, JavaScript)
+- Web programming
 
 ------
 - A member of "Samsung Software Academy For Youth (SSAFY)" 
