@@ -10,7 +10,7 @@
 - Want to be a super expert in these fields :dash:
 
 ### Interests
-- Data science :cabinet: ::
+- Data science :floppy_disk:
 - Artificial Intelligence (AI) :robot:
 - Web programming
 
