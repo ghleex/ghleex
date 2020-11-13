@@ -3,14 +3,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghleex%2F&title=HITS)](https://github.com/ghleex/)
 
 </div>
-
+:fleur_de_lis:
 
 ### Data Scientist Wannabe
 - Interested in data science and web programming
-- Want to be a super expert in these fields
+- Want to be a super expert in these fields :dash:
 
 ### Interests
-- Data science
+- Data science :cabinet: ::
+- Artificial Intelligence (AI) :robot:
 - Web programming
 
 ------
