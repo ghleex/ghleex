@@ -1,6 +1,6 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghleex%2F&title=HITS)](https://github.com/ghleex/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghleex%2F&count_bg=%2300ADEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ghleex/)
 
 </div>
 :fleur_de_lis:
