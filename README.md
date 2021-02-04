@@ -6,12 +6,12 @@
 :fleur_de_lis:
 
 ### Data Scientist Wannabe
-- Interested in data science and web programming
+- Interested in data science and machine learning
 - Want to be a super expert in these fields :dash:
 
 ### Interests
 - Data science :floppy_disk:
-- Artificial Intelligence (AI) :robot:
+- Machine Learning :robot:
 - Web programming
 
 ------
@@ -24,6 +24,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/gil-hyeon-lee-1a7372ab/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghleex@gmail.com)](mailto:ghleex@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&link=https://bit.ly/2MTqxkQ)](https://bit.ly/2MTqxkQ)
 
 </div>
 
