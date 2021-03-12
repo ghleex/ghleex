@@ -5,12 +5,12 @@
 </div>
 :fleur_de_lis:
 
-### Data Engineer Wannabe
-- Interested in data engineering and machine learning
+### Data Scientist/Analyst Wannabe
+- Interested in data science/analytics and machine learning
 - Want to be a super expert in these fields :dash:
 
 ### Interests
-- Data Engineering :floppy_disk:
+- Data Science/Analytics :floppy_disk:
 - Machine Learning :robot:
 - Web programming
 
