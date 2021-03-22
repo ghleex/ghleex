@@ -24,7 +24,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/2O670OE)](https://bit.ly/2O670OE)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghleex@gmail.com)](mailto:ghleex@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&link=https://bit.ly/2MTqxkQ)](https://bit.ly/2MTqxkQ)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&link=https://bit.ly/3lD1cbX)](https://bit.ly/3lD1cbX)
 
 </div>
 
@@ -48,4 +48,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Notion url: https://bit.ly/3lD1cbX
+- Projects url: https://bit.ly/2MTqxkQ
 -->
