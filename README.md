@@ -5,18 +5,18 @@
 </div>
 :fleur_de_lis:
 
-### Data Scientist/Analyst Wannabe
-- Interested in data science/analytics and machine learning
+### Data Engineer/Analyst Wannabe
+- Interested in data engineering/analytics and machine learning
 - Want to be a super expert in these fields :dash:
 
 ### Interests
-- Data Science/Analytics :floppy_disk:
+- Data Engineering/Analytics :floppy_disk:
 - Machine Learning :robot:
 - Web programming
 
 ------
 - A member of "Samsung Software Academy For Youth (SSAFY)" 
-- Served as an officer in the ROK Air Force :airplane: 
+- Served as an officer(rank: second lieutenant) in the ROK Air Force :airplane: 
 - Majored in Linguistics (Master of Arts) :books: 
 
 
