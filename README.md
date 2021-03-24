@@ -16,7 +16,7 @@
 
 ------
 - A member of "Samsung Software Academy For Youth (SSAFY)" 
-- Served as an officer(rank: second lieutenant) in the ROK Air Force :airplane: 
+- Served as an officer(rank: first lieutenant) in the ROK Air Force :airplane: 
 - Majored in Linguistics (Master of Arts) :books: 
 
 
