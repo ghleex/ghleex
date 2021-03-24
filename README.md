@@ -23,7 +23,6 @@
 <div align=center>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/2O670OE)](https://bit.ly/2O670OE)	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghleex@gmail.com)](mailto:ghleex@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&link=https://bit.ly/3lD1cbX)](https://bit.ly/3lD1cbX)
 
 </div>
@@ -39,6 +38,8 @@ Here are some ideas to get you started:
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://ghleex.github.io/)
   
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/주소 넣기)
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghleex@gmail.com)](mailto:ghleex@gmail.com)
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
