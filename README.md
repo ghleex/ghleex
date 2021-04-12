@@ -23,7 +23,8 @@
 <div align=center>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/2O670OE)](https://bit.ly/2O670OE)	
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&link=https://bit.ly/3lD1cbX)](https://bit.ly/3lD1cbX)
+[![Notion Badge](https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=black&link=https://bit.ly/3lD1cbX)](https://bit.ly/3lD1cbX)
+[![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-4f62f8?style=flat-square&link=https://bit.ly/3ea6Uiv)](https://bit.ly/3ea6Uiv)
 
 </div>
 
